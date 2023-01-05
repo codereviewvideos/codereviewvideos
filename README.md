@@ -8,9 +8,10 @@
 
 ## 🚧 Current projects
 
-- https://codereviewvideos.com/
-- https://highestpayingjobs.co.uk/
+- https://codereviewvideos.com
+- https://highestpayingjobs.co.uk
 - https://bikeclimbs.com/climb
+- https://a6software.co.uk
 
 ## 📖 Learning
 
