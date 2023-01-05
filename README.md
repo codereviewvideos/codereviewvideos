@@ -2,6 +2,6 @@
 <h3 align="center">https://codereviewvideos.com</h3>
 
 <p align="center">
-<a href= "https://www.linkedin.com/in/christopher-moss-a6software/"><img src="https://github.com/codereviewvideos/codereviewvideos/raw/main/icons/linkedin-icon.png"/></a>
-<a href= "https://codereviewvideos.com/"><img src="https://github.com/codereviewvideos/codereviewvideos/raw/main/icons/wordpress-icon.png"/></a>
+<a href= "https://www.linkedin.com/in/christopher-moss-a6software/" target=”_blank”><img src="https://github.com/codereviewvideos/codereviewvideos/raw/main/icons/linkedin-icon.png"/ width="32"></a>
+<a href= "https://codereviewvideos.com/" target=”_blank”><img src="https://github.com/codereviewvideos/codereviewvideos/raw/main/icons/wordpress-icon.png"/  width="32"></a>
 </p>
