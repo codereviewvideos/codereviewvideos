@@ -8,11 +8,11 @@
 
 ## 🚧 Current projects
 
-- https://codereviewvideos.com
-- https://highestpayingjobs.co.uk
-- https://thetechnicalinterview.com/
-- https://bikeclimbs.com/climb
-- https://a6software.co.uk
+- https://codereviewvideos.com - 📹💻📚
+- https://highestpayingjobs.co.uk - 💼💰🔝
+- https://thetechnicalinterview.com/ - 🤔💻💬
+- https://bikeclimbs.com/climb - 🚴🏻‍♂️🏔💪
+- https://a6software.co.uk - 💻🛠️📊
 
 ## 📖 Learning
 
