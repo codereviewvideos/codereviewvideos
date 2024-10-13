@@ -10,7 +10,8 @@
 
 - 📹💻📚 https://codereviewvideos.com
 - 💼💰🔝 https://highestpayingjobs.co.uk
-- 🚴🏻‍♂️🏔💪 https://bikeclimbs.com/climb
+- 🚴🏻‍♂️🏔💪 https://bikeclimbs.com
+- ☕📉💸 https://coffeebeanprices.com
 - 💻🛠️📊 https://a6software.co.uk
 
 ## 📖 Learning
